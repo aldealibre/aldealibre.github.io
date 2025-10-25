@@ -236,7 +236,7 @@ enable_cards_tag_filtering = true
 invert_title_order = false
 
 # Full path after the base URL required. So if you were to place it in "static" it would be "/favicon.ico"
-favicon = "/favicon.png"
+favicon = "/img/favicon.png"
 
 # Add an emoji here to use it as favicon.
 # Compatibility: https://caniuse.com/link-icon-svg
@@ -252,7 +252,9 @@ menu = [
     { name = "blog", url = "blog", trailing_slash = true },
     # { name = "archive", url = "archive", trailing_slash = true },
     { name = "tags", url = "tags", trailing_slash = true },
-    { name = "projects", url = "projects", trailing_slash = true },
+    { name = "mapa", url = "mapa", trailing_slash = true },
+    { name = "biblioteca", url = "biblioteca", trailing_slash = true },
+
 ]
 
 # The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
