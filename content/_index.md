@@ -7,3 +7,4 @@ section_path = "blog/_index.md"
 max_posts = 5
 +++
 
+Compendio de experiencias de agricultura orgánica, biodonámica, agroecológica y regerenativa
