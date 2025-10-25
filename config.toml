@@ -1,7 +1,7 @@
 base_url = "https://aldea.libre.net.ar"
 title = "AldeA"
 description = "Agricultura Libre de Agroquímicos (ALdeA)"
-author = "ALdeA"
+author = "ALdeA Libre"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
