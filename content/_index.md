@@ -8,3 +8,5 @@ max_posts = 5
 +++
 
 Compendio de experiencias de agricultura orgánica, biodinámica, agroecológica y regenerativa
+
+> [mapa ALdeA -> https://mapa.libre.net.ar/aldea](https://mapa.libre.net.ar/aldea)
