@@ -308,7 +308,7 @@ copyright = "$TITLE © $CURRENT_YEAR $AUTHOR $SEPARATOR Unless otherwise noted, 
 # For multi-language sites, you can set a different copyright for each language.
 # The old way of setting `translated_copyright = true` and using i18n files is deprecated.
 # If a translation is missing for language, the `copyright` value will be used.
-copyright_translations.es = "$TITLE © $CURRENT_YEAR $AUTHOR $SEPARATOR El contenido de esta web está disponible bajo la licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es) $SEPARATOR Hecho con 💚 e Inteligencia Natural​"
+copyright_translations.es = "$TITLE © $CURRENT_YEAR $AUTHOR $SEPARATOR El contenido del web está disponible bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es) $SEPARATOR Hecho con Inteligencia Natural 💚​"
 
 # Custom security headers. What urls should your website be able to connect to?
 # You need to specify the CSP and the URLs associated with the directive.
