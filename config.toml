@@ -252,8 +252,8 @@ menu = [
     { name = "blog", url = "blog", trailing_slash = true },
     # { name = "archive", url = "archive", trailing_slash = true },
     { name = "tags", url = "tags", trailing_slash = true },
-    { name = "mapa", url = "mapa", trailing_slash = true },
-    { name = "biblioteca", url = "biblioteca", trailing_slash = true },
+    # { name = "mapa", url = "mapa", trailing_slash = true },
+    # { name = "biblioteca", url = "biblioteca", trailing_slash = true },
 
 ]
 
