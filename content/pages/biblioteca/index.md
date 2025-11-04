@@ -31,7 +31,7 @@ quick_navigation_buttons = true
 
 [Finca Bidinámica Cosmos Mendoza (Parte 1)](https://www.youtube.com/watch?v=0uqDjDZgEHY)
 
-[Finca Bidinámica Cosmos Mendoza (Parte 2)[https://www.youtube.com/watch?v=7QXJIPx5WSI]
+[Finca Bidinámica Cosmos Mendoza (Parte 2)](https://www.youtube.com/watch?v=7QXJIPx5WSI)
 
 [Bases de la Agroecología Miguel Altieri](https://www.youtube.com/watch?v=Dxm9PWp83u4)
 
