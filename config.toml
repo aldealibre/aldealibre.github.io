@@ -292,6 +292,7 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
      {url = "contacto", name = "contacto", trailing_slash = true},
+     {url = "biblioteca", name = "biblioteca", trailing_slash = true},
 #     {url = "about", name = "about", trailing_slash = true},
 #     {url = "privacy", name = "privacy", trailing_slash = true},
 #     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
