@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://aldea.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;aldea.libre.net.ar</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>mes agroecología</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://aldea.libre.net.ar/skins/mint.css?h=504215cf6bc10586b487" /><title>ALdeA - mes agroecología</title>
+        <subtitle>Agricultura Libre de Agroquímicos (ALdeA)</subtitle>
+    <link href="https://aldea.libre.net.ar/tags/mes-agroecologia/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://aldea.libre.net.ar/tags/mes-agroecologia/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-11-04T00:00:00+00:00</updated><id>https://aldea.libre.net.ar/tags/mes-agroecologia/atom.xml</id><entry xml:lang="es">
+        <title>Presentación en el marco del mes de la agroecología</title>
+        <published>2025-11-04T00:00:00+00:00</published>
+        <updated>2025-11-04T00:00:00+00:00</updated>
+        <author>
+            <name>ALdeA Libre</name>
+        </author>
+        <link rel="alternate" href="https://aldea.libre.net.ar/blog/25-11-04-presetacion-mapa/" type="text/html"/>
+        <id>https://aldea.libre.net.ar/blog/25-11-04-presetacion-mapa/</id>
+        
+            <content type="html">&lt;p&gt;El mapa de la Agricultura Libre de Agroquímicos (ALdeA) del centro-sur de Córdoba es un trabajo conjunto entre la cátedra de Ecología de Agronomía de la Universidad Nacional de Villa María (UNVM) y la cátedra de Agriculturas Alternativas de Ingeniería Agronómica de la Universidad Nacional de Río Cuarto. Ofrece información básica y georeferenciada de campos regionales que han optado por las prácticas agroecológicas, orgánicas, biodinámicas, permaculturales y regenerativas. Se relevaron 83 campos, que ocupan una superficie de 14.817,54 hectáreas. Es una herramienta de acceso libre. Mediante este mapa se accede a la ubicación de cada campo, su superficie trabajada, sus actividades principales y secundarias, su antigüedad en la ALdeA, sus redes sociales, algunas imágenes de los mismos, videos y notas periodísticas sobre los campos y los medios (correo electrónico o teléfonos) para contactarlos.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;CPqUsXnDF2LbC6AN7&quot;&gt;Inscripciones completando el formulario -&amp;gt; https:&#x2F;&#x2F;forms.gle&#x2F;CPqUsXnDF2LbC6AN7&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;flyer_ALdeA_25.11.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Mapa de la Agricultura Libre de Agroquímicos (ALdeA) del centro-sur de Córdoba</summary>
+        </entry>
+</feed>
